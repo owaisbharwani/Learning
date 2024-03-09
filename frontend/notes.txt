@@ -1,0 +1,28 @@
+HTML CSS + Javascript:
+
+
+1 INTRO - 
+document.getElementById()
+Linking to HTML
+window.alerts, Console.log, textContent(DOM)
+
+2 VARIABLES 
+Datatypes, String Literals 
+let x = y;      int, float, string, boolean
+`${variable_name}`
+
+    
+3 ARITHMETIC OPERATORS
+===         Strict Equals
+==          Equals
+=           variable assign
++ - / *     math operators
+**          exponents
+%           modulus
++= 2        add and assign by 2 (works for + - * / ** %)
+++          icrement by 1 (works for --);
+
+order precedence order-> () ** / % * + - 
+
+4 USER INPUT
+window prompt + HTML textbox
